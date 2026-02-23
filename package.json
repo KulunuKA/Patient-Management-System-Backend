@@ -1,0 +1,24 @@
+{
+  "name": "patient_management_system",
+  "version": "1.0.0",
+  "description": "Patient Management System Backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-cron": "^3.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KulunuKA/AF-Lab4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KulunuKA/AF-Lab4/issues"
+  },
+  "homepage": "https://github.com/KulunuKA/AF-Lab4#readme"
+}
